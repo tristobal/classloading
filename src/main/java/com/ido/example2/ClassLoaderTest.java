@@ -1,4 +1,4 @@
-package com.globant.example2;
+package com.ido.example2;
 
 public class ClassLoaderTest {
 

@@ -1,4 +1,4 @@
-package com.globant.example4;
+package com.ido.example4;
 
 public class Sample {
     private Sample instance;

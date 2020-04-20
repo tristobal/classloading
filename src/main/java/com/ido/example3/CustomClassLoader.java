@@ -1,4 +1,4 @@
-package com.globant.example3;
+package com.ido.example3;
 
 import java.io.DataInputStream;
 import java.io.File;

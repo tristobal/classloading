@@ -1,4 +1,4 @@
-package com.globant.example2;
+package com.ido.example2;
 
 import java.lang.reflect.Constructor;
 import java.lang.reflect.Method;

@@ -1,4 +1,4 @@
-package com.globant.example3.foobar;
+package com.ido.example3.foobar;
 
 public class Foo {
     static public void main(String args[]) throws Exception {

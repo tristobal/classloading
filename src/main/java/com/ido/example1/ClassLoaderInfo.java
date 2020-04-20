@@ -1,4 +1,4 @@
-package com.globant.example1;
+package com.ido.example1;
 
 import org.json.JSONString;
 
